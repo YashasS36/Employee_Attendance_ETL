@@ -1,0 +1,4 @@
+Date,Employee,Department,Work_Hours,Late,Overtime,Status
+01-Jun-26,Rahul,IT,9.17,No,1.17,Present
+01-Jun-26,Priya,Finance,8.42,Yes,0.42,Present
+01-Jun-26,Amit,HR,8.58,No,0.58,Present

@@ -1,0 +1,4 @@
+Date,Employee_ID,In_Time,Out_Time,Employee_Name,Department,Working_Hours,Late,Overtime_Hours,Status
+01-Jun-26,E001,1900-01-01 09:05:00,1900-01-01 18:15:00,Rahul,IT,9.17,No,1.17,Present
+01-Jun-26,E002,1900-01-01 09:35:00,1900-01-01 18:00:00,Priya,Finance,8.42,Yes,0.42,Present
+01-Jun-26,E003,1900-01-01 08:55:00,1900-01-01 17:30:00,Amit,HR,8.58,No,0.58,Present
